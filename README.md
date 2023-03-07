@@ -13,7 +13,7 @@ Der Datensatz enthält die folgenden drei Tabellen:
 Zudem werden für eine Anlayse auch Indizes verwendet. Diese stammen von [Statista](https://de.statista.com/).
 
 ## Analyse 📊
-⚠️ Vorab ersteinmal, ich kann  Fehler gemacht haben, sowohl bei der Erstellung des Datensatzes als auch bei der Analyse. Es ist für mich ein Hobbyprojekt. Die komplette Analyse finden Sie [hier](hut_statistics_eda_ml_encoded.html).
+⚠️ Vorab ersteinmal, ich kann  Fehler gemacht haben, sowohl bei der Erstellung des Datensatzes als auch bei der Analyse. Es ist für mich ein Hobbyprojekt. Die komplette Analyse finden Sie [hier](https://htmlpreview.github.io/?https://github.com/Chrissi2802/Hut-statistics/blob/main/hut_statistics_eda_ml_encoded.html).
 
 ### Erster Einblick
 ![Getränke pro Jahr](./Plots/liter_pro_jahr.png "Getränke pro Jahr")
@@ -43,7 +43,7 @@ Die Vorhersage funktioniert nicht perfekt, aber der Trend ist erkennbar.
 | Dateien                         | Beschreibung                                                        |
 | ------------------------------- | ------------------------------------------------------------------- |
 | [Plots](Plots)                  | Ordner enthält gespeicherte Plots                                   |
-| [hut_statistics_eda_ml.html](hut_statistics_eda_ml.html)     | HTML Datei des Jupyter notebooks der Explorativen Datenanalyse und des Machine Learnings mit den chiffrierten Namen   |
+| [hut_statistics_eda_ml_encoded.html](https://htmlpreview.github.io/?https://github.com/Chrissi2802/Hut-statistics/blob/main/hut_statistics_eda_ml_encoded.html)     | HTML Datei des Jupyter notebooks der Explorativen Datenanalyse und des Machine Learnings mit den chiffrierten Namen   |
 | [hut_statistics_eda_ml.ipynb](hut_statistics_eda_ml.ipynb)   | Jupyter notebook der Explorativen Datenanalyse und des Machine Learnings  |
 | [utils.py](utils.py)            | Funktionen um den Datensatz zu laden,  die Namen zu chiffrieren und Vorhersagen zu treffen   |
 

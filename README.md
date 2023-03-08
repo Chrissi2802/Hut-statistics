@@ -16,10 +16,10 @@ Zudem werden für eine Anlayse auch Indizes verwendet. Diese stammen von [Statis
 ⚠️ Vorab ersteinmal, ich kann  Fehler gemacht haben, sowohl bei der Erstellung des Datensatzes als auch bei der Analyse. Es ist für mich ein Hobbyprojekt. Die komplette Analyse finden Sie [hier](https://htmlpreview.github.io/?https://github.com/Chrissi2802/Hut-statistics/blob/main/hut_statistics_eda_ml_encoded.html).
 
 ### Erster Einblick
-![Getränke pro Jahr](./Plots/liter_pro_jahr.png "Getränke pro Jahr")
+![Getränke pro Jahr](./Plots/liter_pro_jahr.png "Getränke pro Jahr") <br> 
 Ein fallender Trend 📉 ist deutlich zu erkennen. Der Verzehr von Getränken ist in den letzten Jahren rückläufig.
 
-![Getränketypen gesamt](./Plots/getraenketypen_manuell.png "Getränketypen")
+![Getränketypen gesamt](./Plots/getraenketypen_manuell.png "Getränketypen") <br> 
 Bier🍺 ist mit Abstand das beliebteste Getränk. Es wird mehr Bier getrunken als alle anderen Getränke zusammen.
 
 ### Vorgehen

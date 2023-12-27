@@ -3,7 +3,7 @@
 Dieses Repository enthält eine Analyse der jährlichen Hüttenstatistiken.
 
 ## Daten
-Die Daten stammen von den jährlich herausgegebenen Statistiken der Hütte. Der Datensatz beginnt im Jahr 2015 und wird jedes Jahr erweitert. Aktuell sind die Daten bis zum Jahr 2022 enthalten.
+Die Daten stammen von den jährlich herausgegebenen Statistiken der Hütte. Der Datensatz beginnt im Jahr 2015 und wird jedes Jahr erweitert. Aktuell sind die Daten bis zum Jahr 2023 enthalten.
 
 Der Datensatz enthält die folgenden drei Tabellen:
 - Alle Biersorten🍺 und alkoholfreien Getränke🍹

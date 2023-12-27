@@ -18,7 +18,7 @@ class Hut_Dataset:
     """This class provides the datasets and prepares the data of the Hut-statistics dataset.
     """
 
-    def __init__(self, path, encoded = True):
+    def __init__(self, path, encoded=True):
         """This method initializes the class. 
            It loads the dataset and the indices and creates additional dataframes.
         
@@ -112,7 +112,7 @@ def encode(path_dataset):
         path_dataset (string): Path where the dataset is saved
     """
     
-    CHut_Dataset = Hut_Dataset(path_dataset)
+    CHut_Dataset = Hut_Dataset(path_dataset, encoded=False)
 
     # get dataframes
     df_getränke, df_bier, df_schnaps, _, _, _, _ = CHut_Dataset.get_dfs()
@@ -186,5 +186,6 @@ if __name__ == "__main__":
     print(df_getränke.shape, df_bier.shape, df_schnaps.shape, df_getränke_alkrei.shape, 
           df_getränke_ohne_alkfrei.shape, df_kombiniert.shape, df_kombiniert_indizes.shape) 
 
-    #encode(path_dataset)
+    # Replace names with numbers
+    encode(path_dataset)
     
